@@ -1,3 +1,4 @@
+![](https://visitor-badge.glitch.me/badge?page_id=mdjohns.visitor-badge)
 ### Hi, I'm Dylan. 👋
 - 🎓️ **Graduating this December** from [UALR](https://ualr.edu/) with a Bachelor of Science in Computer Science.
 - 🍃️ Currently based in **Little Rock, AR**, but I'm looking to find the right job **wherever it may be**.
